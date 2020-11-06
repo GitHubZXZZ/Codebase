@@ -1,0 +1,23 @@
+Bt-Panel: http://120.78.227.12:8888/925b6273
+username: llsmpvld
+password: 87fa1339
+更新：yum -y update && yum -y upgrade && yum -y clean all
+域名：www.baixiu.pyunyuan.cn
+mysql：www_baixiu_pyuny
+用户名：www_baixiu_pyuny
+密码：WNnh6Rks55cEJfTG
+
+
+数据库账号资料
+
+数据库名：baixiu_pyuanyuan
+
+用户：baixiu_pyuanyuan
+
+密码：dTCGCt2CFtSneNDH
+
+
+
+ftp:
+user
+pwd:C4JcDt6N8XNtARw6
